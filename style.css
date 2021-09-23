@@ -1,0 +1,43 @@
+.division{
+    border-radius:20px;
+    box-shadow:7px 7px 7px gray;
+    background-color:white;
+    color:black;
+    padding:10px;
+    float:none;
+}
+
+.identification{
+    margin-top:0px;
+    width:100%;
+    font-size:30px;
+    box-shadow:7px 7px 7px grey;
+}
+
+.object{
+    box-shadow:6px 6px 6px grey;
+    font-size:20px;
+
+}
+
+.object span{
+white-space:pre-line;
+}
+
+.footer{
+    background-color:grey;
+    color:whitesmoke;
+    bottom:0px;
+    position:fixed;
+    width:100%;
+    text-align:center;
+    font-size:30px;
+
+}
+
+canvas{
+    border-radius:10px;
+    border:5px solid grey;
+    box-shadow:6px 6px 6px grey;
+    margin-top:160px;
+}
